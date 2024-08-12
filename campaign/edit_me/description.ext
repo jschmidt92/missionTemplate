@@ -1,0 +1,9 @@
+// Mission settings - title, description, author etc.
+author = "YOUR_NAME, SOF";
+onLoadName = "MISSION_NAME";
+onLoadMission = "MISSION_SUMMARY";
+
+sof_type = 0; // 0: Contract, 1: Sub-Contract, 2: Training, 3: Special
+
+// Randomization
+disableRandomization[] = {}; // Disables randomization of units and vehicles based off of variable name or classname
