@@ -20,4 +20,4 @@ class Params {
 #include "configs\paygrades.h"
 #include "configs\stores.h"
 
-#include "\@sof_mod\userconfig\sof_phone.hpp"
+#include "\@sof\userconfig\sof_phone.hpp"
