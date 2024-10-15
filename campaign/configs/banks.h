@@ -4,6 +4,7 @@ class SOF_CfgBanks {
 			className = "Land_Atm_01_F";
 			pos[] = {4818, 8075, 0};
 			dir = 180;
+            bankType = "object";
 			bankName = "FDIC";
 		};
 	};

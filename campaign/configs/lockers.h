@@ -4,6 +4,7 @@ class SOF_CfgLockers {
 			className = "Box_NATO_Equip_F";
 			pos[] = {4812, 8075, 0};
 			dir = 0;
+            lockerType = "object";
 			lockerName = "Player Locker";
 		};
 	};

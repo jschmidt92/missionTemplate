@@ -4,6 +4,7 @@ class SOF_CfgStores {
 			className = "Land_CashDesk_F";
 			pos[] = {4815, 8075, 0};
 			dir = 0;
+            storeType = "object";
 			storeCategories[] = {
 				{"Backpacks", "storeBackpacks"},
 				{"Goggles", "storeGoggles"},

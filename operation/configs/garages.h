@@ -14,6 +14,7 @@ class SOF_CfgGarages {
 			className = "Box_NATO_Equip_F";
 			pos[] = {4810, 8075, 0};
 			dir = 0;
+            garageType = "object";
 			garageName = "Player Garage";
 		};
 	};
